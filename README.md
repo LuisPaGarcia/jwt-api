@@ -25,7 +25,7 @@ $ PORT=3000 secret=secretohehe node index.js
 
 - Entra a localhost:3000/api
 - No podrás entrar
-- Ahora entra a localhost:3000/api?token= ** EL_TOKEN **
+- Ahora entra a localhost:3000/api?token=EL_TOKEN_
 
 
 Listo 💯
